@@ -1,5 +1,6 @@
 {
   "name": "user-management",
+  "homepage": "http://demo.aynalhossain.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
